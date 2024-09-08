@@ -1,0 +1,227 @@
+.shop-card-wrapper,
+.shop-card-wrapper * {
+  box-sizing: border-box;
+}
+.shop-card-wrapper {
+  background: #fafafa;
+  padding: 120px 0px 120px 0px;
+  height: 460px;
+  position: relative;
+  overflow: hidden;
+  margin-top: -90px;
+}
+.shop-card-container {
+  padding: 80px 0px 80px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: calc(50% - 525px);
+  top: 0px;
+  overflow: hidden;
+}
+.shop-card-row {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.shop-card-box {
+  flex-shrink: 0;
+  width: 510px;
+  height: 300px;
+  position: relative;
+}
+.shop-card-item {
+  background: #ffffff;
+  width: 510px;
+  height: 300px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  background-image: url("../images/watchbgcover.svg");
+
+}
+.right-bg-cover {
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  bottom: 0px;
+  top: 0px;
+  overflow: hidden;
+  background-image: url("../images/iphonebgcover.svg");
+}
+.unsplash-qyc-13-qb-ga-m-4 {
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  bottom: 0px;
+  top: 0px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.filter {
+  background: rgba(255, 255, 255, 0.85);
+  position: absolute;
+  right: 0px;
+  left: -2.2737367544323206e-13px;
+  bottom: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.left-card-content {
+  padding: 24px;
+  height: 300px;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 0px;
+}
+.left-card-heading {
+  color: var(--alert-color, #e77c40);
+  text-align: left;
+  font-family: var(--h6-font-family, "Montserrat-Bold", sans-serif);
+  font-size: var(--h6-font-size, 14px);
+  line-height: var(--h6-line-height, 24px);
+  letter-spacing: var(--h6-letter-spacing, 0.2px);
+  font-weight: var(--h6-font-weight, 700);
+  position: absolute;
+  left: 49px;
+  bottom: 217.5px;
+}
+.left-card-title {
+  color: var(--text-color, #252b42);
+  text-align: left;
+  font-family: var(--h3-font-family, "Montserrat-Bold", sans-serif);
+  font-size: var(--h3-font-size, 24px);
+  line-height: var(--h3-line-height, 32px);
+  letter-spacing: var(--h3-letter-spacing, 0.1px);
+  font-weight: var(--h3-font-weight, 700);
+  position: absolute;
+  left: 49px;
+  top: 101.5px;
+}
+.left-card-sub-title {
+  color: var(--second-text-color, #737373);
+  text-align: left;
+  font-family: var(--paragraph-font-family, "Montserrat-Regular", sans-serif);
+  font-size: var(--paragraph-font-size, 14px);
+  line-height: var(--paragraph-line-height, 20px);
+  letter-spacing: var(--paragraph-letter-spacing, 0.2px);
+  font-weight: var(--paragraph-font-weight, 400);
+  position: absolute;
+  left: 49px;
+  bottom: 84.5px;
+}
+.left-card-button {
+  color: var(--text-color, #252b42);
+  text-align: left;
+  font-family: var(--link-font-family, "Montserrat-Bold", sans-serif);
+  font-size: var(--link-font-size, 14px);
+  line-height: var(--link-line-height, 24px);
+  letter-spacing: var(--link-letter-spacing, 0.2px);
+  font-weight: var(--link-font-weight, 700);
+  position: absolute;
+  left: 49px;
+  bottom: 42.5px;
+  text-decoration: none;
+}
+.left-card-image {
+  width: 267px;
+  height: 445px;
+  position: absolute;
+  left: 272px;
+  top: -68px;
+  object-fit: cover;
+}
+.unsplash-4-o-ws-xde-as-2-g {
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  bottom: 0px;
+  top: 0px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.right-bg-overlay {
+  background: rgba(2, 130, 202, 0.88);
+  position: absolute;
+  right: 0px;
+  left: -4.547473508864641e-13px;
+  bottom: 0px;
+  top: 0px;
+  overflow: hidden;
+  background-image: url('../images/iphonebgcover.svg');
+}
+.right-card-content {
+  padding: 24px;
+  height: 300px;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.right-card-heading {
+  color: var(--light-gray-2, #ececec);
+  text-align: left;
+  font-family: var(--h6-font-family, "Montserrat-Bold", sans-serif);
+  font-size: var(--h6-font-size, 14px);
+  line-height: var(--h6-line-height, 24px);
+  letter-spacing: var(--h6-letter-spacing, 0.2px);
+  font-weight: var(--h6-font-weight, 700);
+  position: absolute;
+  left: 49px;
+  bottom: 215.5px;
+}
+.right-card-title {
+  color: var(--light-text-color, #ffffff);
+  text-align: left;
+  font-family: var(--h3-font-family, "Montserrat-Bold", sans-serif);
+  font-size: var(--h3-font-size, 24px);
+  line-height: var(--h3-line-height, 32px);
+  letter-spacing: var(--h3-letter-spacing, 0.1px);
+  font-weight: var(--h3-font-weight, 700);
+  position: absolute;
+  left: 49px;
+  top: 103.5px;
+}
+.right-card-sub-title {
+  color: var(--light-text-color, #ffffff);
+  text-align: left;
+  font-family: var(--paragraph-font-family, "Montserrat-Regular", sans-serif);
+  font-size: var(--paragraph-font-size, 14px);
+  line-height: var(--paragraph-line-height, 20px);
+  letter-spacing: var(--paragraph-letter-spacing, 0.2px);
+  font-weight: var(--paragraph-font-weight, 400);
+  position: absolute;
+  left: 49px;
+  bottom: 134.5px;
+}
+.right-card-btn {
+  color: var(--light-text-color, #ffffff);
+  text-align: left;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 0.2px;
+  font-weight: 600;
+  text-decoration: underline;
+  position: absolute;
+  left: 49px;
+  bottom: 69.5px;
+  text-decoration: none;
+}
+.printed-summer-dress-7-1 {
+  width: 207px;
+  height: 414px;
+  position: absolute;
+  right: 16px;
+  top: -44px;
+  object-fit: cover;
+}
