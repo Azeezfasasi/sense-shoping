@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/sense-shoping/static/css/main.405c8320.css",
+    "main.js": "/sense-shoping/static/js/main.389d7e00.js",
+    "static/js/453.ed3810f9.chunk.js": "/sense-shoping/static/js/453.ed3810f9.chunk.js",
+    "static/media/iphone.svg": "/sense-shoping/static/media/iphone.f6bf52fa672ff87d12a5ce8889605542.svg",
+    "static/media/watch.svg": "/sense-shoping/static/media/watch.147e7663b4924e75912550cdfcf0785f.svg",
+    "static/media/productone.svg": "/sense-shoping/static/media/productone.596368991bbae61b4af96c62c3242450.svg",
+    "static/media/productsideimage.svg": "/sense-shoping/static/media/productsideimage.c21985fb2b12ef4ba5b0d217b753ee8f.svg",
+    "static/media/shophero.svg": "/sense-shoping/static/media/shophero.7e2e2b7a52edab9a1969.svg",
+    "static/media/watchbgcover.svg": "/sense-shoping/static/media/watchbgcover.c639bac6c7778c538bee.svg",
+    "static/media/iphonebgcover.svg": "/sense-shoping/static/media/iphonebgcover.5a48a8c35e4c11902788452c950ac6b8.svg",
+    "static/media/producttwo.svg": "/sense-shoping/static/media/producttwo.55bebabe30dc2fd6fd6cdcd0273b290d.svg",
+    "static/media/instagram.svg": "/sense-shoping/static/media/instagram.1240f2c0aee1da825c96920f73c0aeae.svg",
+    "static/media/cart.svg": "/sense-shoping/static/media/cart.58fe063c5ab367740b31f76cd95eb63e.svg",
+    "static/media/phone.svg": "/sense-shoping/static/media/phone.86dffbc9a61f4db077d0dc4d15f75f43.svg",
+    "static/media/youtube.svg": "/sense-shoping/static/media/youtube.f88df8dcb9f322c1105a28f642b2b3fc.svg",
+    "static/media/sales.svg": "/sense-shoping/static/media/sales.6623ed924f23e33fcb4d3f4bcf2752a9.svg",
+    "static/media/search.svg": "/sense-shoping/static/media/search.44f2f0b29f1df78b58118bca02f3df6e.svg",
+    "static/media/twitter.svg": "/sense-shoping/static/media/twitter.229be0ef93070885504aef2d7dd407f3.svg",
+    "static/media/mailbox.svg": "/sense-shoping/static/media/mailbox.83af0311307583dc817e01a983505b15.svg",
+    "static/media/user.svg": "/sense-shoping/static/media/user.67e2d5a6adb0120b6d08bbdb183caeff.svg",
+    "static/media/favorite.svg": "/sense-shoping/static/media/favorite.eed9a7d5379303eea9088ba476366a75.svg",
+    "index.html": "/sense-shoping/index.html",
+    "static/media/facebook.svg": "/sense-shoping/static/media/facebook.f6b2a7fba1cf1b259b110ec0cfbe5b7a.svg",
+    "static/media/star.svg": "/sense-shoping/static/media/star.8eeaab7a0aa397f57b92613dc0987712.svg",
+    "main.405c8320.css.map": "/sense-shoping/static/css/main.405c8320.css.map",
+    "main.389d7e00.js.map": "/sense-shoping/static/js/main.389d7e00.js.map",
+    "453.ed3810f9.chunk.js.map": "/sense-shoping/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.405c8320.css",
+    "static/js/main.389d7e00.js"
+  ]
+}
