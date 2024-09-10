@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/sense-shoping/static/css/main.0c0932a5.css",
+    "main.css": "/sense-shoping/static/css/main.72d0430c.css",
     "main.js": "/sense-shoping/static/js/main.08cefc32.js",
     "static/js/453.ed3810f9.chunk.js": "/sense-shoping/static/js/453.ed3810f9.chunk.js",
     "static/media/iphone.svg": "/sense-shoping/static/media/iphone.f6bf52fa672ff87d12a5ce8889605542.svg",
@@ -24,12 +24,12 @@
     "index.html": "/sense-shoping/index.html",
     "static/media/facebook.svg": "/sense-shoping/static/media/facebook.f6b2a7fba1cf1b259b110ec0cfbe5b7a.svg",
     "static/media/star.svg": "/sense-shoping/static/media/star.8eeaab7a0aa397f57b92613dc0987712.svg",
-    "main.0c0932a5.css.map": "/sense-shoping/static/css/main.0c0932a5.css.map",
+    "main.72d0430c.css.map": "/sense-shoping/static/css/main.72d0430c.css.map",
     "main.08cefc32.js.map": "/sense-shoping/static/js/main.08cefc32.js.map",
     "453.ed3810f9.chunk.js.map": "/sense-shoping/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0c0932a5.css",
+    "static/css/main.72d0430c.css",
     "static/js/main.08cefc32.js"
   ]
 }
